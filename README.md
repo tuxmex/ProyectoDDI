@@ -29,7 +29,8 @@
 |    |                     |           |            |               |             |
 
 ## Prototipo en dibujo
-file:///home/tux/camara_prototipo_1.png![imagen](https://github.com/tuxmex/ProyectoDDI/assets/36056832/efe3bc2d-db29-47d6-b3be-e55cb3c2cee7)
+file:///home/tux/camara_prototipo_1.png![imagen](https://github.com/tuxmex/ProyectoDDI/assets/36056832/3873f7aa-6317-45f9-b38f-f101089e29e5)
+
 
 ## Placa PCB
 
